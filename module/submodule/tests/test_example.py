@@ -1,4 +1,4 @@
-from module.submodule.main import *
+from module.submodule import main
 
 
 def test_sample_function():
