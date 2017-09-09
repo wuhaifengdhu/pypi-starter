@@ -15,7 +15,7 @@ __author__ = "Wu Haifeng"
 __email__ = "wuhaifengdhu@163.com"
 
 # Change this line to the module name you want to create
-__title__ = "module"
+__title__ = "pypi-starter"
 __version__ = "1.0.0"
 __summary__ = "This package creates a framework for python packages to be built."
 __uri__ = "https://github.com/wuhaifengdhu/pypi-starter"
