@@ -60,8 +60,8 @@ password=your_password
 ``` 
 * Upload your repository
 ```
-Python setup.py bidet_wheel —universal
-Twine upload dist/*
+python setup.py bdist_wheel --universal
+twine upload dist/*
 ```        
 
 
